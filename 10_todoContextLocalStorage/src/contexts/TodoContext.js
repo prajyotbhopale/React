@@ -6,7 +6,7 @@ todos:[
     {
         id:1,
         todo:"todo message",
-        competed:false
+        completed:false
     }
 ],
 addTodo: (todo) => {},
